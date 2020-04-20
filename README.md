@@ -1,5 +1,5 @@
 # CoronaVirusWorldData
-The data for corona virus in INDIA is available here as a csv. Updated daily with new data.
+The data for corona virus in INDIA is available here as a .csv file which is Updated daily with new cases.
 
 This data is collected from : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
