@@ -1,6 +1,8 @@
 # CoronaVirusWorldData
-The world data for corona virus is available here as a csv and sqlite. Updated daily with new data.
+The data for corona virus in INDIA is available here as a csv. Updated daily with new data.
 
-the data is gathered from the website our world in data and formatted in sqlite db for processing and visualization.
-source : https://ourworldindata.org/coronavirus-source-data
+This data is collected from : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
+This data is formatted as a suitable csv for a country wise analysis, you can also download the full data files from above link.
+
+You can also download my source code and retrieve data of other countries. (Limited support, Updation in progress) :)
